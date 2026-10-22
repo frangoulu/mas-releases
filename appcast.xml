@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mas+</title>
+    <item>
+      <title>Mas+ 0.1.0</title>
+      <pubDate>Thu, 22 Oct 2026 01:36:06 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>feat: auto-updates with Sparkle and tag-based release workflow</li><li>feat: screen recording from the notch, clipboard and screenshot improvements</li><li>docs: update plan with done features, backlog and screen recording notes</li><li>feat: clipboard history with screenshots grid, copy toast, mirror tab and tabs beside the notch</li><li>feat: tab navigation inside the expanded notch</li><li>feat: notch base window with hover expand and glass background</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.1.0/Mas.zip" type="application/octet-stream" sparkle:edSignature="4z8h7jclQcy6aOTc1nKwHjg/tjqkZjAJrrACh8VsdsgIcm8+8KyeZpIMTbWdZmTNLZBpZG434JQsRdqa9C3WBw==" length="1528400" />
+    </item>
+  </channel>
+</rss>
