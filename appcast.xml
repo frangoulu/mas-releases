@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.2.2</title>
+      <pubDate>Thu, 22 Oct 2026 03:00:12 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>fix: center island content and fit its wings to what they show</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.2.2/Mas.zip" type="application/octet-stream" sparkle:edSignature="hvXGYtKE59RvKUhHZHOl6Ee67gmqT5KI90XDm1z20z46TPtjHWxE/lQ23z7kI5Hh1kdHJNCQIxd0ZVFR/f+rBg==" length="2306698" />
+    </item>
+    <item>
       <title>Mas+ 0.2.1</title>
       <pubDate>Thu, 22 Oct 2026 02:50:07 GMT</pubDate>
       <sparkle:version>7</sparkle:version>
