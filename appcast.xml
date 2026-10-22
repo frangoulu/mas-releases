@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.1.4</title>
+      <pubDate>Thu, 22 Oct 2026 02:19:41 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>feat: Hoy tab with post-its that can be pulled out of the notch onto the desktop</li><li>fix: read the appcast from the latest release and collapse the notch before Sparkle&#x27;s dialogs</li><li>feat: check for updates button in the Home tab</li><li>feat: auto-updates with Sparkle and tag-based release workflow</li><li>feat: screen recording from the notch, clipboard and screenshot improvements</li><li>docs: update plan with done features, backlog and screen recording notes</li><li>feat: clipboard history with screenshots grid, copy toast, mirror tab and tabs beside the notch</li><li>feat: tab navigation inside the expanded notch</li><li>feat: notch base window with hover expand and glass background</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.1.4/Mas.zip" type="application/octet-stream" sparkle:edSignature="NflHTI6+zUk28yytq0LyDkldMOaOXXoLaWydOe177IOgnOprbt6ldD5ejSbwV2iJGSA37mQN2tOwACqab4GiAg==" length="1823705" />
+    </item>
+    <item>
       <title>Mas+ 0.1.3</title>
       <pubDate>Thu, 22 Oct 2026 01:59:00 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
