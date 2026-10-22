@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.2.1</title>
+      <pubDate>Thu, 22 Oct 2026 02:50:07 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>fix: single-click notch buttons, guided screen recording permission and Bandeja tab</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.2.1/Mas.zip" type="application/octet-stream" sparkle:edSignature="pkyt8+l1yExZZ9DfE5khDo77KH+/RC/sqhJgsIT0d3WIkn+C/VgArVqB/0BcckFzZq+95ck84AgvIj5sGySZBA==" length="2299736" />
+    </item>
+    <item>
       <title>Mas+ 0.2.0</title>
       <pubDate>Thu, 22 Oct 2026 02:31:30 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
