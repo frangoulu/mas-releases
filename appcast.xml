@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.3.0</title>
+      <pubDate>Fri, 23 Oct 2026 02:45:43 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>feat: reload feature flags when the notch opens, at most once a minute</li><li>docs: record the calendar flag and beta cohort in PostHog</li><li>feat: calendar behind a PostHog flag, calendar events and analytics rules</li><li>feat: calendar takes half of Inicio next to a coming-soon slot</li><li>feat: minimal Hairline calendar in Inicio and matching island</li><li>docs: minimal calendar prototypes</li><li>feat: drop the analytics checkbox from Inicio</li><li>feat: calendar in Inicio with a day timeline and the next meeting in the island</li><li>feat: add PostHog product analytics</li><li>docs: map backend with user accounts in backlog</li><li>docs: decide PostHog feature flags for beta testing</li><li>docs: add PostHog product analytics to backlog</li><li>docs: add task action log and edge-docked post-its to backlog</li><li>docs: add post-it UX improvements and agent completion to backlog</li><li>docs: add Google Calendar and post-it API/MCP to backlog</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.3.0/Mas.zip" type="application/octet-stream" sparkle:edSignature="QUlC/3SVum3hJMw6YDXe2bbKBb+STKX69d/GyjCUZ3ZcccJ/umhbDeLTzd2vUIv/bYFXnnRjYOT+yP3udvgJCg==" length="4169958" />
+    </item>
+    <item>
       <title>Mas+ 0.2.2</title>
       <pubDate>Thu, 22 Oct 2026 03:00:12 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
