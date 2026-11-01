@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.4.0</title>
+      <pubDate>Sun, 01 Nov 2026 15:24:18 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>fix: carry over yesterday&#x27;s notes once a day so one put back in Hoy stays there</li><li>feat: drop a post-it on the notch to put it back in Hoy</li><li>feat: list today&#x27;s completed post-its at the end of Hoy to restore them</li><li>fix: docked post-its no longer bounce when they slide out</li><li>fix: keep the mouse on the folded corner so a post-it can be completed</li><li>feat: stack post-its in a cascade and dock them on the screen edge</li><li>docs: add the snooze and stacking post-it prototypes</li><li>fix: undoing a snooze in its last second no longer snoozes anyway</li><li>fix: keep the snooze undo card on one line per row</li><li>feat: snooze a post-it with one click and a 3 second undo</li><li>fix: pin the post-it footer to the bottom and shrink the card to 3/4</li><li>feat: restyle post-its with a folded corner to complete and a font toggle</li><li>fix: compact meeting island with just the calendar icon and minutes</li><li>docs: add a custom update experience to the backlog</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.4.0/Mas.zip" type="application/octet-stream" sparkle:edSignature="WWnIhrT2hhPOtumLqVohsIDVEuEMi7qe3sx8ZVzl6FOPoz/E1tFHF2LXRPP88XeoE3xJ4bsMAWUQWjI90nbXAg==" length="4377842" />
+    </item>
+    <item>
       <title>Mas+ 0.3.0</title>
       <pubDate>Fri, 23 Oct 2026 02:45:43 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
