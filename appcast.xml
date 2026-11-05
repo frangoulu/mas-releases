@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.5.2</title>
+      <pubDate>Thu, 05 Nov 2026 12:29:40 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>fix: save each post-it relative to its monitor so positions survive display changes</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.5.2/Mas.zip" type="application/octet-stream" sparkle:edSignature="yUuV3qbvj5Ze1KIdIU6FZDlqRFRDTiq40O9nuBpTQQaCFP8tGac0xxNPfB8vgjR+1pyQhyUPOQy2M3BlVjVDDA==" length="4360619" />
+    </item>
+    <item>
       <title>Mas+ 0.5.1</title>
       <pubDate>Wed, 04 Nov 2026 23:06:43 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
