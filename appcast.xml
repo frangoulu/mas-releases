@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.6.2</title>
+      <pubDate>Fri, 06 Nov 2026 03:29:58 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>fix: keep the session and Google token in a private file instead of the Keychain</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.6.2/Mas.zip" type="application/octet-stream" sparkle:edSignature="bpVXA/ezUTRa15Foj6pAkLOgokVBgC62XLUcZCNytbBjWHk6BQ05+OvBQeBdBPtGaR832uWqHQmcn0WH6GF1Bg==" length="8204694" />
+    </item>
+    <item>
       <title>Mas+ 0.6.1</title>
       <pubDate>Fri, 06 Nov 2026 03:15:24 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
