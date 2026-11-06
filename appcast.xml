@@ -3,6 +3,15 @@
   <channel>
     <title>Mas+</title>
     <item>
+      <title>Mas+ 0.6.1</title>
+      <pubDate>Fri, 06 Nov 2026 03:15:24 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>docs: mark the post-it backend done</li><li>feat: post-its saved to the backend with an event log, one Mac per person</li></ul>]]></description>
+      <enclosure url="https://github.com/frangoulu/mas-releases/releases/download/v0.6.1/Mas.zip" type="application/octet-stream" sparkle:edSignature="Z7ZwbACPmTIgxhgbv3XO+5GCtQLUh9uULbjcVL6lnsshP+Q963zSF78jrO3lrDu0IcXKxves3aVv1/JJLUD/BQ==" length="8200313" />
+    </item>
+    <item>
       <title>Mas+ 0.6.0</title>
       <pubDate>Fri, 06 Nov 2026 03:03:57 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
